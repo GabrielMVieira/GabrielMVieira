@@ -1,7 +1,7 @@
 ### Olá! Sou Gabriel Vieira estudante de programação.
 
-- 🔭 Empenhado em me tornar um habilidoso desenvolvedor back-end.
-- 🌱 Atualmente estou expandindo minha base de conhecimento após concluir cursos abrangentes em tópicos como Maven, JUnit, design patterns, SOLID e programação orientada a objetos em Java. Além disso, estou mergulhando no mundo do SQL para fortalecer minha compreensão de bancos de dados, visando a integração perfeita com frameworks populares, como Spring.
+- 🔭 Sou desenvolvedor Java.
+- 🌱 Motivado a contribuir para a empresa com competência e dedicação, buscando oportunidades para aprimorar minhas habilidades, agregar no time e crescer profissionalmente juntamente com aprendizado técnico contínuo.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas.
 
 ##
